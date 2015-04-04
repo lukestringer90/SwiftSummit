@@ -303,7 +303,7 @@ By **Boris Bügling**, [@NeoNacho](http://www.twitter.com/NeoNacho)
 [Slides](https://speakerdeck.com/neonichu/swift-funtime-2) & [Github Repo](https://github.com/neonichu/swift-funtime)
 
 * Boris is on the core team at cocoapods.
-* In Swift import `Runtime`
+* In Swift import `ObjectiveC.runtime`
 * You can use dynamic introspection for Swift objects.
 * The `reflect` method is in the standard library, but it is private so be careful.
 * `NSInvocation` does not exist in Swift.
