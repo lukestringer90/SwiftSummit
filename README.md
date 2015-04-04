@@ -432,6 +432,8 @@ By **Gem Barrett**, [@gembarrett](http://www.twitter.com/gembarrett)
 
 By **Kyle Fuller**, [@kylefuller](http://www.twitter.com/kylefuller)
 
+[Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+
 * Kyle is the tech lead at cocoapods
 * REST is for good API design
 * Lets us embrace change
