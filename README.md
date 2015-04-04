@@ -432,16 +432,20 @@ By **Gem Barrett**, [@gembarrett](http://www.twitter.com/gembarrett)
 
 By **Kyle Fuller**, [@kylefuller](http://www.twitter.com/kylefuller)
 
-* Kyle is the tech lead at cocoapods
+[Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+[Representor](https://github.com/the-hypermedia-project/representor-swift) - Hypermedia resource framework in Swift
+
+* Kyle is the tech lead at CocoaPods
 * REST is for good API design
 * Lets us embrace change
 * You should anticipate change. 
 * Facebook freeze their API for 2 years to ensure compatibility.
 * REST promotes change.
 * Take on Mark Zuckerberg quote: "Move fast and *dont* break things."
+* REST let's us embrace change, so we can move fast and break nothing.
 * REST is not about exposing a database.
 * Design your API around representations, i.e. states.
-* This avoids coupling with the implementation, which can change.
+* This avoids coupling implementation details, which can change.
 * HATEOAS is a REST constraint. If you are not using HATEOAS you are not doing REST.
 * API can be dynamic in what things it can do.
 * Client is taught about the semantics so it can discover things for itself.
