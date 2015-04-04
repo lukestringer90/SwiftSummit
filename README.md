@@ -10,6 +10,8 @@ Swift Summit [website link](https://www.swiftsummit.com), [twitter link](http://
 
 Here are the notes I took. They should not be considered definitive or 100% accurate to the content presented, they are more just a reminder of some cool and interesting things that were said. Where possible I have tried to find links to the slides or prerentation material.
 
+**Pull requests to correct inaccurcies are very welcome.**
+
 ## Functional View Controllers
 
 By **Chris Eidhof**, [@ChrisEidhof](http://www.twitter.com/ChrisEidhof)
