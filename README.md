@@ -366,7 +366,7 @@ By **Carola Mitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
 
 By **Radek Pietuzeksi**, [@radexp](http://www.twitter.com/radexp)
 
-[Slides](http://www.slideshare.net/radexp/swifty-methods-swifty-apis) * [related blogpost](http://radex.io/swift/methods)
+[Slides](http://www.slideshare.net/radexp/swifty-methods-swifty-apis) & [related blogpost](http://radex.io/swift/methods)
 
 * Focus on clarity
 * Don't write clever code. "Keep it simple, stupid".
