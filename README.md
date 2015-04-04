@@ -112,7 +112,7 @@ By **Airspeed Velocity**, [@AirSpeedSwift](http://www.twitter.com/AirSpeedSwift)
 
 ## How Swift is Swift?
 
-By **Joseph Lord**, [@jl_hfl]((http://www.twitter.com/jl_hfl)
+By **Joseph Lord**, [@jl_hfl](http://www.twitter.com/jl_hfl)
 
 [Slides](http://blog.human-friendly.com/how-swift-is-swift)
 
@@ -310,7 +310,7 @@ By **Boris Bügling**, [@NeoNacho](http://www.twitter.com/NeoNacho)
 
 ## Testing In Swift
 
-By **John Riehn**, [@jriehn](http://www.twitter.com/jriehn)
+By **Jan Riehn**, [@jriehn](http://www.twitter.com/jriehn)
 
 [GitHub Repo](https://github.com/jriehn/testing-in-swift)
 
@@ -333,7 +333,7 @@ By **John Riehn**, [@jriehn](http://www.twitter.com/jriehn)
 
 ## Debugging In Swift
 
-By **Carola Mitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
+By **Carola Nitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
 
 [Slides](https://speakerdeck.com/carola/debugging-in-swift)
 
