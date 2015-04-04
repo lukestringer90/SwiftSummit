@@ -366,7 +366,7 @@ By **Carola Mitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
 
 ## Swifty Methods
 
-By **Radek Pietuzeksi**, [@radexp](http://www.twitter.com/radexp)
+By **Radek Pietruszewski**, [@radexp](http://www.twitter.com/radexp)
 
 [Slides](http://www.slideshare.net/radexp/swifty-methods-swifty-apis) & [related blogpost](http://radex.io/swift/methods)
 
