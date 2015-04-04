@@ -181,6 +181,8 @@ Wonderful use of a drama-school-esque prop. Good work!
 
 By **Alexsander Akers**, [@a2](http://www.twitter.com/a2)
 
+[Slides](http://www.slideshare.net/pandamonia/death-by-indecision)
+
 * Emoji-Driven-Presentation 📈😃👍
 * Everyone has a side project.
 	* Weird when you think about it really.
