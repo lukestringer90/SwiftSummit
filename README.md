@@ -454,6 +454,17 @@ By **Kyle Fuller**, [@kylefuller](http://www.twitter.com/kylefuller)
 * Gracefully handle features that the API lacks / turns off.
 * Use the SIREN JSON format for hypermedia.
 
+[Representor](https://github.com/the-hypermedia-project/representor-swift): Swift library for building and consuming Hypermedia messages 
+
+A collection of REST (HATEOAS) APIs:
+
+- [Polls API](https://github.com/apiaryio/polls-api) - Siren and HAL, completely OSS and configurable.
+- [PayPal API](https://developer.paypal.com/docs/api/#hateoas-links) - HAL
+- [Heroku](https://blog.heroku.com/archives/2014/1/8/json_schema_for_heroku_platform_api) - JSON Schema
+- [GitHub](https://api.github.com) - Custom (url in responses)
+- [Artsy](http://artsy.github.io/blog/2014/09/12/designing-the-public-artsy-api/) - HAL
+- [FizzBuzz as a Service](http://smizell.com/weblog/2014/solving-fizzbuzz-with-hypermedia) - Siren
+
 ## Day 2 Panel Discussion & Closing Remarks
 
 * Exploring new concepts in Swift we didn't have in Objective-C.
