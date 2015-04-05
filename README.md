@@ -97,7 +97,7 @@ Playground demo [link](https://github.com/JaviSoto/Talks/tree/master/SwiftSummit
 
 ## The Monad Among Us
 
-By **Al Skipp**, [@ChromophoreApp]((http://www.twitter.com/ChromophoreApp)
+By **Al Skipp**, [@ChromophoreApp](http://www.twitter.com/ChromophoreApp)
 
 [GitHub repo](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
 
