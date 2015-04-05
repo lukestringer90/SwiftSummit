@@ -135,7 +135,7 @@ By **Abizer Nasir**, [@abizern](http://www.twitter.com/abizern)
 
 * Favour structs over classes as much as possible.
 * Do not mutate structs.
-	* Using [lensing](http://chris.eidhof.nl/posts/lenses-in-swift.html) approach.
+	* Use [lensing](http://chris.eidhof.nl/posts/lenses-in-swift.html) approach.
 * `type alias` is useful for making code cleaner.
 	* Higher order functions are easier to read.
 
