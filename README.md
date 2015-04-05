@@ -156,6 +156,7 @@ By **Ayaka Nonaka**, [@ayanonagon](http://www.twitter.com/ayanonagon)
 * Designers make a pull request on the cocoapod repo.
 * UIImage category is automatically created to make each asset available in code.
 	* Not sure how this works when using `.xcassets`?
+		* [@indragie](https://twitter.com/indragie)’s [swiftsrc](https://github.com/indragiek/swiftrsrc) (also written in Swift!) looks like a great option to achieve the same result if you are using `.xcassets`.
 * Category creation is done with a script... in Swift!
 * Writing Swift scripts is a good way to learn Swift before writing it for production software.
 * Get access to all the frameworks in iOS within your script.
