@@ -8,15 +8,15 @@ Swift Summit [website link](https://www.swiftsummit.com), [twitter link](http://
 
 ---
 
-Here are the notes I took. They should not be considered definitive or 100% accurate to the content presented, they are more just a reminder of some cool and interesting things that were said. Where possible I have tried to find links to the slides or prerentation material.
+Here are the notes I took. They should not be considered definitive or 100% accurate to the content presented, they are more just a reminder of some cool and interesting things that were said. Where possible I have tried to find links to the slides or presentation material.
 
-**Pull requests to correct inaccurcies are very welcome.**
+**Pull requests to correct inaccuracies are very welcome.**
 
 ## Functional View Controllers
 
 By **Chris Eidhof**, [@ChrisEidhof](http://www.twitter.com/ChrisEidhof)
 
-* View controller have a tendency to do a lot of things.
+* View controllers have a tendency to do a lot of things.
 	* Setup views.
 	* Load data.
 	* Show new view controllers.
@@ -24,7 +24,7 @@ By **Chris Eidhof**, [@ChrisEidhof](http://www.twitter.com/ChrisEidhof)
 * Use functional techniques to solve this problem.
 * See the "flow" of the application:
 
-```
+```swift
 let flow = navigationController(loginViewController()) >>> orgsScreen >>> reposScreen >>> issuesScreen
 ```
 
@@ -33,7 +33,7 @@ let flow = navigationController(loginViewController()) >>> orgsScreen >>> reposS
 
 GitHub repo: [chriseidhof/github-issues](https://github.com/chriseidhof/github-issues)
 
-Shortly after Swift Summit Chris shipped [Scenery](https://www.getscenery.com/); a mac app written entirely in Swift. He wrote he thoughts on using Swift in production [here](http://chris.eidhof.nl/posts/scenery-launch.html).
+Shortly after Swift Summit Chris shipped [Scenery](https://www.getscenery.com/); a Mac app written entirely in Swift. He wrote his thoughts on using Swift in production [here](http://chris.eidhof.nl/posts/scenery-launch.html).
 
 ## Share Your Code, Swift API Design: Getting Results
 
@@ -66,7 +66,7 @@ By **Hermés Piqué**, [@hpique](http://www.twitter.com/hpique)
 * Closures are self contained blocks of functionality
 * UIAlertController is block based.
 * Closures encourage code locality, particularly in comparison to the delegate pattern.
-* `@autoclosure` is for parameter values we may not use. Looks like it automatically wraps the parameter in a a closure for use inside the function.
+* `@autoclosure` is for parameter values we may not use. Looks like it automatically wraps the parameter in a closure for use inside the function.
 * `@noescape` is for parameters that will not outlive the function call.
 * no-op as default parameter for closures.
 
@@ -136,7 +136,7 @@ By **Abizer Nasir**, [@abizern](http://www.twitter.com/abizern)
 * Favour structs over classes as much as possible.
 * Do not mutate structs.
 	* Use [lensing](http://chris.eidhof.nl/posts/lenses-in-swift.html) approach.
-* `type alias` is useful for making code cleaner.
+* `typealias` is useful for making code cleaner.
 	* Higher order functions are easier to read.
 
 Recommended books:
@@ -267,7 +267,7 @@ By **Daniel Tomlinson**, [@dantoml](http://www.twitter.com/dantoml)
 
 [Slides](https://speakerdeck.com/danieltomlinson/swift-meet-objective-c)
 
-* "All Objective-C you write now is technical debt". *Controversional* 😮
+* "All Objective-C you write now is technical debt". *Controversial* 😮
 * Swift is the future, we need to look to it.
 	* Try building new APIs in Swift.
 	* Experiment when building new features.
@@ -392,7 +392,7 @@ By **Marcin Krzyżanowski**, [@krzyzanowskim](http://www.twitter.com/krzyzanowsk
 * Common Crypto framework available in Swift.
 * SwiftSSL is a Swift wrapper around OpenSSL.
 * NaCL (Salt).
-* Crypto Swift is pure swift framework, but is slower. Supports:
+* Crypto Swift is pure Swift framework, but is slower. Supports:
 	* Hashing
 	* Symmetric Ciphers
 	* Block Cipher
@@ -473,6 +473,6 @@ A collection of REST (HATEOAS) APIs:
 * Swift tooling needs improving.
 * We can decide and make the best practises ourselves - golden opportunity.
 * Be pragmatic about using Swift and Objective-C.
-* Core Data is ripe for Swift rework. *Hell YEs*
+* Core Data is ripe for Swift rework. *Hell Yes*
 * Maybe Apple would open source Swift? Only a question of when?
 * Open sourcing would lead to Swift web frameworks as it would be available on every platform. 
