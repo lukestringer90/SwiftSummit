@@ -127,11 +127,11 @@ By **Joseph Lord**, [@jl_hfl](http://www.twitter.com/jl_hfl)
 	* Function calls that cannot be inlined.
 	* `@objc` objects
 	
-## Doing Without OOP In Swift
+## What Haskell Taught Me About Writing Swift
 
 By **Abizer Nasir**, [@abizern](http://www.twitter.com/abizern)
 
-[Slides](http://downloads.abizern.org/WhatHaskellTaughtMeAboutSwift.pdf)
+[Slides](https://speakerdeck.com/abizern/what-haskell-taught-me-about-writing-swift)
 
 * Favour structs over classes as much as possible.
 * Do not mutate structs.
@@ -141,9 +141,9 @@ By **Abizer Nasir**, [@abizern](http://www.twitter.com/abizern)
 
 Recommended books:
 	
-* Learn You A Haskel For Great Good Book
-* Real World Haskell
-* Function Programming In Swift
+* [Learn You A Haskel For Great Good](http://learnyouahaskell.com) Book 
+* [Real World Haskell](http://book.realworldhaskell.org) Book
+* [Functional Programming In Swift](http://www.objc.io/books/)
 
 ## Swift Scripting
 
