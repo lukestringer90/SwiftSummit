@@ -315,7 +315,7 @@ By **Boris Bügling**, [@NeoNacho](http://www.twitter.com/NeoNacho)
 
 By **Jan Riehn**, [@jriehn](http://www.twitter.com/jriehn)
 
-[GitHub Repo](https://github.com/jriehn/testing-in-swift)
+[Slides](https://speakerdeck.com/jriehn/testing-in-swift-swiftsummit-2015) & [GitHub Repo](https://github.com/jriehn/testing-in-swift)
 
 * Testing is an art.
 	* Creative.
