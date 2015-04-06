@@ -343,8 +343,8 @@ By **Carola Nitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
 * Swift can be hard to debug.
 	* Output from lldb it not helpful.
 	* Error messages make no sense.
-* In lldb `po` is in fact an alias for `expression _O --`
-* For nicer output use `expression _ 1 objc _O --`
+* In lldb, `po` is just an alias for `expression -O -- myObject`
+* For nicer output use `expression -l objc -O -- (id) <memoryAddress>`
 * Utilise conditional breakpoints. e.g. play a sound for feedback.
 * Use exception breakpoint.
 * Use symbolic breakpoints.
@@ -358,8 +358,8 @@ By **Carola Nitz**, [@_Caro_N](http://www.twitter.com/_Caro_N)
 	* Add concurrency arguments for Core Data to check for thread safety.
 	* `SQLDebug`
 	* `NSDoubleLocalizedStrings 1`
-	* `NSShowNonLocalisedStrings 	1`
-	* Set Apple Languages (es de)
+	* `NSShowNonLocalisedStrings 1`
+	* `AppleLanguages (es de)`
 * Use can use the Swift repl from inside lldb.
 	* run `xcrun swift` to clean the repl session.
 * You can use activity tracing with breadcrumbs.
