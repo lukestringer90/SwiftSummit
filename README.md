@@ -248,6 +248,8 @@ Fantastic answer from Ayaka: **Do you think Objective-C is ready for production?
 
 By **Jack Nutting**, [@jacknutting](http://www.twitter.com/jacknutting)
 
+[Slides](http://assets.nuthole.com/swiftsummit2015_jacknutting.pdf)
+
 * Starts off with a [translation of a Bible quote into Swift](https://twitter.com/jacknutting/status/580284786339647488/photo/1).
 * He has not written any Objective-C since November.
 * Advice is not not just use Swift for the sake of it - be pragmatic.
