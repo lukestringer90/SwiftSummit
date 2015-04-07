@@ -199,9 +199,11 @@ By **Alexsander Akers**, [@a2](http://www.twitter.com/a2)
 
 If you have a OSS Swift app contact Beren Rumble ([@devberen](http://www.twitter.com/devberen)) and he can help promote and share it.
 
-## Swift In Education
+## Extracurricular Swift
 
-By **Sally Shepard & Mark Martin**, [@mostgood](http://www.twitter.com/mostgood)
+By **Sally Shepard & Mark Martin**, [@mostgood](http://www.twitter.com/mostgood) & [@urban_teacher](http://www.twitter.com/urban_teacher)
+
+[Slides](http://www.slideshare.net/mostgood/extracurricular-swift)
 
 * Swift can *totally* be used in education for teaching programming
 * The language itself is great, but the tooling is not there yet.
