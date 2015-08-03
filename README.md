@@ -395,7 +395,7 @@ By **Marcin Krzyżanowski**, [@krzyzanowskim](http://www.twitter.com/krzyzanowsk
 [GitHub Repo](https://github.com/krzyzanowskim/CryptoSwift)
 
 * Common Crypto framework available in Swift.
-* SwiftSSL is a Swift wrapper around OpenSSL.
+* SwiftSSL is a Swift wrapper around CommonCrypto.
 * NaCL (Salt).
 * Crypto Swift is pure Swift framework, but is slower. Supports:
 	* Hashing
